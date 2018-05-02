@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Jack201804</string>
+
+
+    <string name="content_to_request_permission">保证应用正常运行，请授予必要权限！</string>
+    <string name="attention">提示</string>
+    <string name="ok">好的~</string>
+</resources>
